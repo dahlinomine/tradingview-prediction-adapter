@@ -1,0 +1,14 @@
+{
+  "name": "tradingview-prediction-adapter",
+  "version": "0.1.0",
+  "description": "Library to display prediction market data on TradingView charts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
